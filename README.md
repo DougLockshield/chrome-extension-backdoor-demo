@@ -30,4 +30,4 @@ Este projeto é **exclusivamente para fins educacionais** e deve ser usado apena
 
 Quer aprender mais?  
 📺 [Me acompanhe no YouTube](https://www.youtube.com/@DouglasLockshield)  
-🎯 Conteúdos reais de quem vive cibersegurança na prática.
+🎯 Conteúdos de de quem vive cibersegurança na prática.
